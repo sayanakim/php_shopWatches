@@ -506,3 +506,11 @@
 =================
 [2021-03-18 07:24:31] Текст ошибки: syntax error, unexpected ',' | Файл: W:\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php | Строка: 51
 =================
+[2021-03-18 08:26:02] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-18 08:38:36] Текст ошибки: На найден вид W:\domains\ishop2.loc/app/views/User/signup.php | Файл: W:\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2021-03-18 09:28:54] Текст ошибки: syntax error, unexpected '}', expecting end of file | Файл: W:\domains\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 36
+=================
+[2021-03-18 09:59:59] Текст ошибки: syntax error, unexpected '}', expecting end of file | Файл: W:\domains\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 55
+=================
