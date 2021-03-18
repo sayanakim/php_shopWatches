@@ -498,3 +498,11 @@
 =================
 [2021-03-17 10:31:11] Текст ошибки: На найден вид W:\domains\ishop2.loc/app/views/Category/view.php | Файл: W:\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
 =================
+[2021-03-18 06:24:32] Текст ошибки: Too few arguments to function ishop\libs\Pagination::getCurrentPage(), 0 passed in W:\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php on line 19 and exactly 1 expected | Файл: W:\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php | Строка: 82
+=================
+[2021-03-18 06:29:45] Текст ошибки: Too few arguments to function ishop\libs\Pagination::getCurrentPage(), 0 passed in W:\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php on line 19 and exactly 1 expected | Файл: W:\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php | Строка: 82
+=================
+[2021-03-18 06:29:49] Текст ошибки: Too few arguments to function ishop\libs\Pagination::getCurrentPage(), 0 passed in W:\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php on line 19 and exactly 1 expected | Файл: W:\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php | Строка: 82
+=================
+[2021-03-18 07:24:31] Текст ошибки: syntax error, unexpected ',' | Файл: W:\domains\ishop2.loc\vendor\ishop\core\libs\Pagination.php | Строка: 51
+=================
