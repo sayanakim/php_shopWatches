@@ -14,6 +14,7 @@ class UserController extends AppController
             $user->load($data);
             if (!$user->validate($data) || !$user->checkUnique()) {
                 $user->getErrors();
+                $_SESSION['form_data'] = $data;
             } else {
                 // шифрует пароль в БД
                 $user->attributes['password'] = password_hash($user->attributes['password'], PASSWORD_DEFAULT);
@@ -28,11 +29,22 @@ class UserController extends AppController
         $this->setMeta('Регистрация');
     }
 
-    public function loginAction () {
-
+    public function loginAction(){
+        if(!empty($_POST)){
+            $user = new User();
+            if($user->login()){
+                $_SESSION['success'] = 'Вы успешно авторизованы';
+            }else{
+                $_SESSION['error'] = 'Логин/пароль введены неверно';
+            }
+            redirect();
+        }
+        $this->setMeta('Вход');
     }
 
-    public function logoutAction () {
-
+    public function logoutAction(){
+        if(isset($_SESSION['user'])) unset($_SESSION['user']);
+        redirect();
     }
+
 }

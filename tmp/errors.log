@@ -514,3 +514,62 @@
 =================
 [2021-03-18 09:59:59] Текст ошибки: syntax error, unexpected '}', expecting end of file | Файл: W:\domains\ishop2.loc\vendor\ishop\core\base\Model.php | Строка: 55
 =================
+[2021-03-19 04:53:50] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-19 05:20:30] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-19 05:20:33] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-21 04:56:56] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-21 04:58:32] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-21 05:00:40] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-21 05:04:10] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-21 05:04:35] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-21 05:10:10] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-21 05:10:30] Текст ошибки: Метод app\controllers\CartController::checkoutAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-21 05:12:57] Текст ошибки: Class 'app\controllers\User' not found | Файл: W:\domains\ishop2.loc\app\controllers\CartController.php | Строка: 62
+=================
+[2021-03-21 05:12:59] Текст ошибки: Class 'app\controllers\User' not found | Файл: W:\domains\ishop2.loc\app\controllers\CartController.php | Строка: 62
+=================
+[2021-03-21 05:13:42] Текст ошибки: Call to undefined method app\models\User::checkAuth() | Файл: W:\domains\ishop2.loc\app\controllers\CartController.php | Строка: 64
+=================
+[2021-03-21 08:26:39] Текст ошибки: Call to undefined method app\models\User::checkAuth() | Файл: W:\domains\ishop2.loc\app\controllers\CartController.php | Строка: 64
+=================
+[2021-03-21 08:59:11] Текст ошибки: syntax error, unexpected '}', expecting end of file | Файл: W:\domains\ishop2.loc\app\models\User.php | Строка: 69
+=================
+[2021-03-22 09:56:20] Текст ошибки: syntax error, unexpected ';' | Файл: W:\domains\ishop2.loc\app\models\Order.php | Строка: 51
+=================
+[2021-03-22 09:56:44] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: W:\domains\ishop2.loc\app\models\Order.php | Строка: 55
+=================
+[2021-03-22 09:56:48] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: W:\domains\ishop2.loc\app\models\Order.php | Строка: 55
+=================
+[2021-03-22 09:57:05] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: W:\domains\ishop2.loc\app\models\Order.php | Строка: 54
+=================
+[2021-03-22 09:57:25] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: W:\domains\ishop2.loc\app\models\Order.php | Строка: 55
+=================
+[2021-03-22 09:57:52] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: W:\domains\ishop2.loc\app\models\Order.php | Строка: 55
+=================
+[2021-03-22 09:58:35] Текст ошибки: syntax error, unexpected '->' (T_OBJECT_OPERATOR) | Файл: W:\domains\ishop2.loc\app\models\Order.php | Строка: 52
+=================
+[2021-03-22 09:59:00] Текст ошибки: syntax error, unexpected ';' | Файл: W:\domains\ishop2.loc\app\models\Order.php | Строка: 55
+=================
+[2021-03-24 13:57:21] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop2.loc\app\widgets\filter\filter_tpl.php | Строка: 12
+=================
+[2021-03-24 13:57:35] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop2.loc\app\widgets\filter\filter_tpl.php | Строка: 12
+=================
+[2021-03-24 13:57:41] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop2.loc\app\widgets\filter\filter_tpl.php | Строка: 12
+=================
+[2021-03-24 13:58:59] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) | Файл: W:\domains\ishop2.loc\app\widgets\filter\filter_tpl.php | Строка: 12
+=================
+[2021-03-25 04:40:31] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'group statement' | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
+=================
+[2021-03-25 04:50:06] Текст ошибки: Expected response code 250 but got code "550", with message "550 Message was not accepted -- invalid mailbox.  Local mailbox user1@mail.ru is unavailable: user is terminated
+" | Файл: W:\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 459
+=================

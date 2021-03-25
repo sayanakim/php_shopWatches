@@ -8,6 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
     <base href="/">
+    <link rel="shortcut icon" href="/public/images/star.png" type="image/png">
     <?=$this->getMeta();?>
     <link href="/public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="/public/megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
@@ -124,6 +125,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
         </div>
     </div>
+<!--    --><?php //debug($_SESSION); ?>
     <?=$content;?>
 </div>
 
@@ -211,9 +213,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </div>
 </div>
 
+<div class="preloader"><img src="/public/images/ring.svg" alt=""></div>
+
 <?php $curr = \ishop\App::$app->getProperty('currency'); ?>
 <script>
-    var path = '<?=PATH;?>',
+    let path = '<?=PATH;?>',
         course = <?=$curr['value'];?>,
         symboleLeft = '<?=$curr['symbol_left'];?>',
         symboleRight = '<?=$curr['symbol_right'];?>';
@@ -221,6 +225,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <script src="/public/js/jquery-1.11.0.min.js"></script>
 <script src="/public/js/bootstrap.min.js"></script>
+<script src="/public/js/validator.js"></script>
 <script src="/public/js/typeahead.bundle.js"></script>
 <!--dropdown-->
 <script src="/public/js/jquery.easydropdown.js"></script>
@@ -289,7 +294,7 @@ $logs = \R::getDatabaseAdapter()
     ->getDatabase()
     ->getLogger();
 
-debug( $logs->grep( 'SELECT' ) );
+//debug( $logs->grep( 'SELECT' ) );
 ?>
 </body>
 </html>
