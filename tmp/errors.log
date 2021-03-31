@@ -573,3 +573,160 @@
 [2021-03-25 04:50:06] Текст ошибки: Expected response code 250 but got code "550", with message "550 Message was not accepted -- invalid mailbox.  Local mailbox user1@mail.ru is unavailable: user is terminated
 " | Файл: W:\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 459
 =================
+[2021-03-25 08:03:09] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-25 08:07:46] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\views\layouts\watches.php | Строка: 293
+=================
+[2021-03-25 09:16:59] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2021-03-25 09:29:34] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-25 09:29:41] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-25 10:09:47] Текст ошибки: Контроллер app\controllers\admin\CategoryController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-25 10:12:50] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2021-03-25 10:17:07] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2021-03-25 10:17:22] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2021-03-25 10:17:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2021-03-25 10:31:51] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-25 10:31:56] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-25 10:33:21] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-25 10:33:24] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-29 10:10:46] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2021-03-29 10:12:43] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:13:10] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:13:10] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:13:11] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:13:11] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:13:43] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 11
+=================
+[2021-03-29 10:13:44] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 11
+=================
+[2021-03-29 10:13:44] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 11
+=================
+[2021-03-29 10:14:00] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:14:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:14:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:14:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:14:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:15:16] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:15:17] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:15:17] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:15:17] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\controllers\admin\MainController.php | Строка: 10
+=================
+[2021-03-29 10:15:25] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:16:39] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:16:40] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:16:41] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:16:47] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:17:10] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:20:52] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:21:54] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:21:57] Текст ошибки: Call to a member function count() on null | Файл: W:\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 1188
+=================
+[2021-03-29 10:29:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\views\layouts\admin.php | Строка: 594
+=================
+[2021-03-29 10:29:02] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\views\layouts\admin.php | Строка: 594
+=================
+[2021-03-29 10:29:05] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\views\layouts\admin.php | Строка: 594
+=================
+[2021-03-29 10:29:10] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\views\layouts\admin.php | Строка: 594
+=================
+[2021-03-29 10:29:28] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop2.loc\app\views\layouts\admin.php | Строка: 594
+=================
+[2021-03-29 10:38:33] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-29 10:57:18] Текст ошибки: Метод app\controllers\admin\OrderController::viewAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-29 11:26:23] Текст ошибки: Expected response code 250 but got code "550", with message "550 Message was not accepted -- invalid mailbox.  Local mailbox user1@mail.ru is unavailable: user is terminated
+" | Файл: W:\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 459
+=================
+[2021-03-29 13:05:22] Текст ошибки: Метод app\controllers\admin\OrderController::viewAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-29 13:07:02] Текст ошибки: На найден вид W:\domains\ishop2.loc/app/views/admin\Order/view.php | Файл: W:\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2021-03-29 13:19:29] Текст ошибки: На найден вид W:\domains\ishop2.loc/app/views/admin\Order/view.php | Файл: W:\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2021-03-29 14:39:31] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2021-03-29 14:48:50] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-30 03:34:57] Текст ошибки: Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 03:35:01] Текст ошибки: Метод app\controllers\admin\OrderController::changeAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 03:39:45] Текст ошибки: Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 03:39:52] Текст ошибки: Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 03:39:56] Текст ошибки: Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 03:48:05] Текст ошибки: Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 03:55:53] Текст ошибки: Function name must be a string | Файл: W:\domains\ishop2.loc\app\views\admin\Order\view.php | Строка: 55
+=================
+[2021-03-30 06:58:04] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 06:58:38] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 07:20:03] Текст ошибки: Метод app\controllers\admin\CategoryController::addAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 07:20:51] Текст ошибки: Метод app\controllers\admin\CategoryController::addAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 07:30:06] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-30 07:33:19] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-30 08:51:04] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-30 09:21:40] Текст ошибки: Call to undefined method app\widgets\menu\Menu::getMenuMtml() | Файл: W:\domains\ishop2.loc\public\menu\select.php | Строка: 6
+=================
+[2021-03-30 09:56:26] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-30 11:15:21] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-30 11:17:14] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-30 12:14:01] Текст ошибки: Метод app\controllers\admin\UserController::editAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-31 03:17:08] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2021-03-31 03:50:34] Текст ошибки: Метод app\controllers\admin\UserController::addAction не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2021-03-31 04:17:37] Текст ошибки: Контроллер app\controllers\admin\ProductController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-31 04:19:31] Текст ошибки: Контроллер app\controllers\admin\UserController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2021-03-31 04:19:40] Текст ошибки: Контроллер app\controllers\admin\UserController не найден | Файл: W:\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
+=================

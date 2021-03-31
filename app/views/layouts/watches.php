@@ -7,15 +7,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-    <base href="/">
+    <base href="/public/">
     <link rel="shortcut icon" href="/public/images/star.png" type="image/png">
     <?=$this->getMeta();?>
-    <link href="/public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="/public/megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="/public/megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="stylesheet" href="/public/css/flexslider.css" type="text/css" media="screen" />
     <!--theme-style-->
-    <link href="/public/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
     <!--//theme-style-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -223,14 +223,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         symboleRight = '<?=$curr['symbol_right'];?>';
 </script>
 
-<script src="/public/js/jquery-1.11.0.min.js"></script>
-<script src="/public/js/bootstrap.min.js"></script>
-<script src="/public/js/validator.js"></script>
-<script src="/public/js/typeahead.bundle.js"></script>
+<script src="js/jquery-1.11.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/validator.js"></script>
+<script src="js/typeahead.bundle.js"></script>
 <!--dropdown-->
-<script src="/public/js/jquery.easydropdown.js"></script>
+<script src="js/jquery.easydropdown.js"></script>
 <!--Slider-Starts-Here-->
-<script src="/public/js/responsiveslides.min.js"></script>
+<script src="js/responsiveslides.min.js"></script>
 <script>
     // You can also use "$(window).load(function() {"
     $(function () {
@@ -251,9 +251,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
     });
 </script>
-<script src="/public/megamenu/js/megamenu.js"></script>
-<script src="/public/js/imagezoom.js"></script>
-<script defer src="/public/js/jquery.flexslider.js"></script>
+<script src="megamenu/js/megamenu.js"></script>
+<script src="js/imagezoom.js"></script>
+<script defer src="js/jquery.flexslider.js"></script>
 <script>
     // Can also be used with $(document).ready()
     $(window).load(function() {
@@ -286,7 +286,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
     });
 </script>
-<script src="/public/js/main.js"></script>
+<script src="js/main.js"></script>
 <!--End-slider-script-->
 
 <?php
